@@ -1,0 +1,16 @@
+10:23:24.481 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Software Files\eclipse-workspace\06_selenium\OpenCartv0.1_TestNGHybridFramework_byPavan2\master.xml
+
+10:23:44.434 [main] INFO  factory.DriverFactory - =====CHROME=====
+10:24:47.300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Software Files\eclipse-workspace\06_selenium\OpenCartv0.1_TestNGHybridFramework_byPavan2\master.xml
+
+10:24:53.217 [main] INFO  factory.DriverFactory - =====CHROME=====
+10:26:54.074 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Software Files\eclipse-workspace\06_selenium\OpenCartv0.1_TestNGHybridFramework_byPavan2\master.xml
+
+10:27:01.013 [main] INFO  factory.DriverFactory - =====CHROME=====
+10:27:07.257 [main] INFO  factory.DriverFactory - ****** Starting TC002_LoginTest *******
+10:27:10.283 [main] INFO  factory.DriverFactory - ****** HomePage *******
+10:27:12.652 [main] INFO  factory.DriverFactory - ****** LoginPage *******
+10:27:22.794 [main] INFO  factory.DriverFactory - ****** MyAccountPage *******
